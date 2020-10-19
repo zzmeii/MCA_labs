@@ -1,4 +1,4 @@
-from RandomValues import RandomValues
+from lab3.RandomValues import RandomValues
 import matplotlib.pyplot as plt
 
 s_x = [8.4, 8.5, 7.5, 7.7, 7.0, 8.6, 9.8, 7.2, 6.8, 9.4, 7.1, 8.8, 5.7, 8.0, 7.2, 7.4, 9.2, 9.9, 6.6, 6.7, 10.8, 8.1,
